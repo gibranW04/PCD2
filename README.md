@@ -3,7 +3,7 @@
 ## Segmentasi Citra dengan Thresholding
 
 **Nama:** Gibran Wicaksono  
-**NIM:** 24260048
+**NIM:** 24260037
 
 ### Deskripsi
 Proyek ini menerapkan metode *thresholding* untuk mengubah citra grayscale menjadi citra biner yang hanya memiliki dua nilai intensitas, yaitu hitam (0) dan putih (255).
